@@ -1,6 +1,6 @@
 <div  align='center'>
   <img src='./favicon.png' width='500px'  />
-  <h1>Hi, I'm Sharif Ahmad Movahed, a Frontend Developer</h1>
+  <h1>Hi I'm Sharif Ahmad Movahed, a Frontend Developer</h1>
  
 <h3 align="left">🛠️ Languages & Tools</h3>
 
